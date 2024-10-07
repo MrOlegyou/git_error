@@ -1,1 +1,2 @@
-print("I love Dnipro")
+print("I love Kharkiv")
+print("I love Odesa")
